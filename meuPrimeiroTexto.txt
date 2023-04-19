@@ -1,0 +1,5 @@
+Kauhana
+31
+1,60
+Minha segunda aula
+Treinando via terminal e vi
